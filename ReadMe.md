@@ -8,7 +8,7 @@
 
 ## Using Goldblum
 
-* `:goldblum` for static Goldblum
-* `:goldblum_vibrate` for panache
+* `:goldblum:` for static Goldblum
+* `:goldblum_vibrate:` for panache
 
 _Free to use without attribution_

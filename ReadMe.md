@@ -3,7 +3,7 @@
 
 ## Install
 
-* Clone this repo
+* Clone this repo (`git clone git@github.com:sadbumblebee/goldblum_slack_emoji.git`)
 * Add to slack
 
 ## Using Goldblum
